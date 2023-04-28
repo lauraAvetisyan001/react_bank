@@ -1,0 +1,45 @@
+.convertor_container{
+    margin-left: 250px;
+    font-family: 'Roboto';
+    margin-top: 70px;
+  }
+  
+  .convertor_description{
+    color: #707C87;
+    margin-top: 30px;
+    width: 379px;
+    height: 99px;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 140%;
+  }
+  
+  
+  .convertor_item{
+    font-style: normal;
+    font-weight: 700;
+    font-size: 40px;
+    line-height: 140%;
+  }
+  
+  
+  .convertor_btn{
+    width: 251px;
+    height: 50px;
+    background-color: #2C36F2;
+    color: #fff;
+    border: 0.5px solid black;
+    cursor: pointer;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 140%;
+  }
+
+  .convertor_container_img{
+    position: absolute;
+    padding-left: 315px;
+    margin-top: -190px;
+    width: 400px;
+    height: 270px;
+  }
