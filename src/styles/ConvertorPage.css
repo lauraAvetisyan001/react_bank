@@ -61,7 +61,7 @@
  }
  
  .save_results{
-    margin-left: 130px;
+    margin-left: -431px;
     margin-top: 50px;
 }
  
@@ -90,6 +90,6 @@
     border: 1px solid #fff;
     background-color: transparent;
     cursor: pointer;
-    margin-left: 137px;
-    margin-top: 5px;
+    margin-left: 255px;
+    margin-top: -39px;
 }
